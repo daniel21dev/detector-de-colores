@@ -15,7 +15,7 @@ function setup() {
     capture = createCapture(VIDEO);
     capture.size(600, 500);
     capture.hide();
-    fetch("../db/db.json")
+    fetch("https://daniel21dev.github.io/detector-de-colores/db/db.json")
         .then((info) => info.json())
         .then((data) => (escenarios = data));
 }
