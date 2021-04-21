@@ -1,0 +1,16 @@
+{
+  "name": "type-p5",
+  "version": "1.0.0",
+  "description": "applicacion que detecta 5 colores y dice una breve descirpcion sobre estos",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc -w"
+  },
+  "keywords": [],
+  "author": "Daniel Romero",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/p5": "^0.9.1"
+  },
+  "dependencies": {}
+}

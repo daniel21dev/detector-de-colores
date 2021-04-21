@@ -1,0 +1,67 @@
+*,
+*::before,
+*::after {
+  margin: none !important;
+  padding: none !important;
+  box-sizing: border-box !important;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #fff;
+}
+
+.controls {
+  color: aliceblue;
+  position: fixed;
+  top: 500px;
+}
+
+.barra-colores {
+  width: 360px;
+  height: 1rem;
+  background: linear-gradient(
+    to right,
+    red,
+    yellow,
+    green,
+    cyan,
+    blue,
+    magenta,
+    red
+  );
+  display: block;
+  background-color: #fff;
+  position: relative;
+}
+.indicador {
+  position: absolute;
+  content: "";
+  width: 0.3rem;
+  height: 1.2rem;
+  background-color: #fff;
+  left: 0;
+  top: -0.1rem;
+}
+
+p {
+  font-size: 2rem;
+  margin: 5px;
+}
+
+.escenario {
+  position: fixed;
+  width: 50vw;
+  left: 620px;
+  height: 500px;
+}
+
+.escenario p {
+  font-size: 1rem;
+}
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
