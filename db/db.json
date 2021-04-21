@@ -3,51 +3,51 @@
         {
             "nombre": "Atardecer",
             "desc": "Un astro, en particular el Sol, está en el ocaso cuando, por efecto de la rotación de la Tierra, atraviesa el plano del horizonte y pasa del hemisferio visible al no visible",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/atardecer.jpg"
+            "src": "../img/atardecer.jpg"
         },
         {
             "nombre": "Hojas de otoño",
             "desc": "las hojas de los árboles dejan su tradicional color verde y se tiñen con tonos amarillos, rojizos y anaranjados, al mismo tiempo que se secan y se caen",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/Hojas de otoño.jpg"
+            "src": "../img/Hojas de otoño.jpg"
         },
         {
             "nombre": "Gold fish",
             "desc": " es una especie de pez de agua dulce de la familia Cyprinidae. Fue uno de los primeros peces domesticados por el hombre, y actualmente es uno de los más comunes peces de acuario.",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/Gold fish.jpg"
+            "src": "../img/Gold fish.jpg"
         }
     ],
     "verde":[
         {
             "nombre": "Rana verde",
             "desc": "Es una especie de anfibio anuro de la familia de Hylidae, que habita desde el sur de México hasta el noroeste de Colombia.​",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/rana verde.jpg"
+            "src": "../img/rana verde.jpg"
         },
         {
             "nombre": "Pino",
             "desc": "Pinus es un género de plantas vasculares, comúnmente llamadas pinos, pertenecientes al grupo de las coníferas y, dentro de este, a la familia de las Pinaceae, que presentan una ramificación frecuentemente verticilada y más o menos regular.​",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/Pino.jpg"
+            "src": "../img/Pino.jpg"
         },
         {
             "nombre": "pera",
             "desc" :"fruto de distintas especies del género Pyrus, integrado por árboles caducifolios conocidos comúnmente como perales.​ Sin embargo, cuando se trata del fruto comestible, se hace referencia mayormente al producido por el llamado peral común",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/pera.jpg"
+            "src": "../img/pera.jpg"
         }
     ],
     "azul":[
         {
             "nombre":"Ballena azul",
             "desc": "La ballena azul es el animal conocido más grande que jamás haya poblado la Tierra. Estos majestuosos mamíferos marinos dominan los océanos con sus 30 metros de longitud y hasta 180 toneladas de peso. Solo su lengua puede pesar tanto como un elefante, y el corazón, como un automóvil.",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/Ballena azul.jpg"
+            "src": "../img/Ballena azul.jpg"
         },
         {
             "nombre": "orquidea",
             "desc":"Las orquídeas son plantas que encierran cierto misterio, eso de que la mayoría no necesiten tierra para crecer resulta bastante chocante para muchas personas, y si además hablamos de una orquídea azul, todo resulta aún más misterioso.",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/orquidea.jpg"
+            "src": "../img/orquidea.jpg"
         },
         {
             "nombre":"urraca",
             "desc": "La urraca azul (Cyanocitta cristata) es una especie de originaria de América del Norte. Habita principalmente en los bosques, pero también es frecuente observarla en parques y ciudades. Su plumaje es azul claro con detalles negros en la parte superior del cuerpo, mientras que el abdomen es blanco. Además, su cresta pronunciada permite que se le diferencie de otras especies con facilidad.",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/urraca.png"
+            "src": "../img/urraca.png"
         }
 
     ],
@@ -55,34 +55,34 @@
         {
             "nombre":"Jacaranda",
             "desc":"Jacaranda es un género de unas 50 especies aceptadas, de las 120 descritas, ​ de árboles y arbustos de la familia de las bignoniáceas, típicos de la América intertropical y subtropical.",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/jacaranda.jpg"
+            "src": "../img/jacaranda.jpg"
         },
         {
             "nombre":"uva",
             "desc": "La uva​ es la común denominación que reciben los frutos formados en los racimos de la vid.​​ Usada mundialmente para su fermentación, ya que esta da lugar al vino.​​​ Sembradas en viña crecen agrupadas en las parras de las vides entre 6 y 300 uvas por racimo.",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/uva.jpg"
+            "src": "../img/uva.jpg"
         },
         {
             "nombre":"pulpo",
             "desc": " es un molusco marino que, al igual que otros de su familia, presenta ocho brazos. Además, este octópodo presenta no uno, sino tres corazones, los cuales bombean la sangre a las branquias y al resto del cuerpo.",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/pulpo.jpg"
+            "src": "../img/pulpo.jpg"
         }
     ],
     "rojo":[
         {
             "nombre":"sangre",
             "desc":"La sangre es un tejido conectivo líquido, que circula por capilares, venas y arterias de todos los vertebrados. Su color rojo característico es debido a la presencia del pigmento hemoglobínico contenido en los glóbulos rojos.",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/sangre.jpg"
+            "src": "../img/sangre.jpg"
         },
         {
             "nombre":"arce rojo",
             "desc": "arce rojo o arce de Canadá es uno de los árboles caducos más comunes y extendidos del este de Norteamérica. Su distribución va desde el lago de los Bosques en la frontera entre Ontario y Minnesota, al este hasta Terranova, al sur hasta cerca de Miami (Florida)",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/arce.jpg"
+            "src": "../img/arce.jpg"
         },
         {
             "nombre":"guacamayo",
             "desc":"El guacamayo rojo o guacamayo aliverde es una especie de ave de la familia de los loros, del orden Psittaciformes. Son grandes guacamayos que atraen la atención por su vívido y espectacular colorido, y su llamado estridente con el que se comunican durante el vuelo.",
-            "src": "https://daniel21dev.github.io/detector-de-colores/img/guacamayo.jpg"
+            "src": "../img/guacamayo.jpg"
         }
     ]
 }
